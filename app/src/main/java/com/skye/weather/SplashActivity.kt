@@ -22,3 +22,4 @@ class SplashActivity : AppCompatActivity() {
 }
 
      //push check win
+    //push kali check
